@@ -1,0 +1,20 @@
+.wrapper {
+    display: flex;
+}
+
+.list1 {
+    width: 25%;
+    border: 1px solid red;
+}
+
+.list2 {
+    width: 25%;
+    border: 1px solid blue;
+}
+
+.item {
+    height: 150px;
+    line-height: 150px;
+    text-align: center;
+    border: 1px solid green;
+}
